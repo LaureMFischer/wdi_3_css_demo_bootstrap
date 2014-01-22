@@ -11,7 +11,7 @@
   <link href="css/bootstrap.min.css" rel="stylesheet">
 
 - Add the below to the bottom of the body
-  <!-- This is the latest jquery ->
+  <!-- This is the latest jquery -->
   <script src="http://code.jquery.com/jquery.js"></script>
 
   <!-- Minified Boostrap Javascript, depends on JQuery -->
@@ -22,7 +22,11 @@
   <div class="container">
   </div>
 
-- Add row and and columns for the address
+- Let look at how the grid works.
+  open grid1.html
+  open grid2.html
+
+<!-- Add row and and columns for the address -->
   <div class="row">
      <!-- Row for address, hours and form -->
     <div class="col-sm-4 col-lg-4">
@@ -30,9 +34,9 @@
     <!-- Hours panel -->
     <!-- Contact form -->
     </div>
-  </div> <!-- end of row for
+  </div> <!-- end of row for -->
 
--- Add an Address pane with a panel heading and body
+<!-- Add an Address pane with a panel heading and body  -->
     <!-- Address panel -->
     <!-- Panels, http://getbootstrap.com/components/#panels -->
     <div class="panel">
