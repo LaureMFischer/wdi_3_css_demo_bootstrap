@@ -7,10 +7,12 @@ Is a responsive design framework.
   http://emmet.io
   
 ### Examples
-	http://builtwithbootstrap.com
-	http://lovebootstrap.com
-	http://expo.bootstrap.com
-  Noticed by developers of bootstrap.
+[BuiltwithBootstrap](http://builtwithbootstrap.com)
+
+[LoveBootstrap](http://lovebootstrap.com)
+
+[ExpoBootstrap](http://expo.bootstrap.com)
+Sites noticed by developers of bootstrap.
 
 ### Mobile first approach.
   Think about design on small devices, phones.
@@ -19,12 +21,17 @@ Is a responsive design framework.
   Need some hack to get I.E 8 to work otherwise works on I.E 9 and above.
 
 ### No more sprites
-  Could not scale up or change color.
+  Could not scale up or change color. Because they are built with raster images.
 
 ### Font icons are vector icons
-  Can scale up fonts.
+  Can scale up fonts. Because they are with vector images.
+  
+### Built with LESS
+* [LESS](http://www.lesscss.org/)
 
-### Competitors, Zurb foundation.
+### Competitors
+* [Zurb Foundation](http://foundation.zurb.com/)
+	* Built with [SASS](http://sass-lang.com/guide)
 
 
 ## Pros
@@ -37,6 +44,10 @@ Is a responsive design framework.
 * Code "bloat"
    
    More code that if this was developed for one app using  custom CSS/HTML/JS.
+
+* Built with LESS
+   
+   Rails uses SASS/SCSS by default. But, there is a gem that works around this problem.
 
 ## Downloads
 
@@ -67,6 +78,6 @@ Bootstrap javascript depends on JQuery. Add jquery to the bottom of the body, th
 * large (col-lg) >= 1200px
 
 
-## Lab
+## In Class
 * Work through steps.txt
 * Work throug steps2.txt
