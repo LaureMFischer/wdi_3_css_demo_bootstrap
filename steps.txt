@@ -22,9 +22,11 @@
   <div class="container">
   </div>
 
-- Let look at how the grid works.
-  open grid1.html
-  open grid2.html
+- (Detour) Let look at how the grid works.
+  cp template.html my_grid1.html
+  cp template.html my_grid2.html
+
+  Use grid1.html and grid2.html as an example.
 
 <!-- Add row and and columns for the address -->
   <div class="row">
