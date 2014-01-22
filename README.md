@@ -1,12 +1,14 @@
-## Twitter Bootstrap
+## [Twitter Bootstrap](http://getbootstrap.com/)
 Is a responsive design framework.
   Somewhere between a canned CMS and a site built from raw CSS.
 
-### Install Emmet (optional)
+### Install [Emmet](http://emmet.io) (optional)
   
   http://emmet.io
   
 ### Examples
+[Bootstrap Examples](http://getbootstrap.com/getting-started/#examples)
+
 [BuiltwithBootstrap](http://builtwithbootstrap.com)
 
 [LoveBootstrap](http://lovebootstrap.com)
@@ -17,7 +19,7 @@ Sites noticed by developers of bootstrap.
 ### Mobile first approach.
   Think about design on small devices, phones.
 
-### I.E 8 and higher.
+### I.E 8 and higher. [Browser Support](http://getbootstrap.com/getting-started/#browsers)
   Need some hack to get I.E 8 to work otherwise works on I.E 9 and above.
 
 ### No more sprites
@@ -69,6 +71,10 @@ Bootstrap javascript depends on JQuery. Add jquery to the bottom of the body, th
 
 ### Add bootstrap.js after jquery
 
+## [Basic Template](http://getbootstrap.com/getting-started/#template)
+* [template.html](template.html)
+* [Bootstrap CDN](http://getbootstrap.com/getting-started/#download-cdn)
+
 ## Grid
 * 12 column grid
 * 4 sizes, extra small
@@ -78,6 +84,8 @@ Bootstrap javascript depends on JQuery. Add jquery to the bottom of the body, th
 * large (col-lg) >= 1200px
 
 
-## In Class
+## In Class 
+Build a [Contact Page](contact.html)
+
 * Work through steps.txt
 * Work throug steps2.txt
