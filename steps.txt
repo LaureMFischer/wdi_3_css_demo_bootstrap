@@ -1,7 +1,9 @@
 - Create a html page with a head and body
 
-- Add the below to head
 
+- Add the below to head
+  <!-- Basic Bootstrap Template, http://demo.bootstraptor.com/contact_bs3/contact.htm -->
+  
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
   <!-- Width is determined by the device (phone, tablet, desktop) -->
@@ -72,7 +74,7 @@
 
      <!-- Hours table -->
      <div class="panel-body">
-       <table class="table table-hover>
+       <table class="table table-hover">
          <thead>
            <tr>
              <th>Day</th>
@@ -108,7 +110,7 @@
            Feel Free to contact us.
          </h3>
        </div>
-       <div class="panel-body>
+       <div class="panel-body">
          <!-- CONTACT FORM -->
        </div>
      </div>
@@ -150,4 +152,4 @@
      <label for="submit">&nbsp;</label>
      <input class="btn btn-lg btn-info" type="submit" name="submit" value="Send Message">
    </div>
---
+
