@@ -16,17 +16,15 @@ Is a responsive design framework.
 [ExpoBootstrap](http://expo.bootstrap.com)
 Sites noticed by developers of bootstrap.
 
-### Mobile first approach.
-  Think about design on small devices, phones.
+## In Class 
+Build a [Contact Page Simple](contact1.html)
+* Work through steps.txt
+* Work through steps2.txt
 
-### I.E 8 and higher. [Browser Support](http://getbootstrap.com/getting-started/#browsers)
-  Need some hack to get I.E 8 to work otherwise works on I.E 9 and above.
+Then **if you can**
 
-### No more sprites
-  Could not scale up or change color. Because they are built with raster images.
+Build a [More Complete Contact Page](contact.html)
 
-### Font icons are vector icons
-  Can scale up fonts. Because they are with vector images.
   
 ### Built with LESS
 * [LESS](http://www.lesscss.org/)
@@ -41,6 +39,17 @@ Sites noticed by developers of bootstrap.
 * Customizable
 
 	Doesn't NEED to look like all the other sites that use bootstrap.
+	
+* Mobile first approach.
+  Think about design on small devices, phones.
+
+* No more sprite icons.
+  Could not scale up or change color of sprites. Because they are built with raster images.
+
+  Replaced by vector icons that can scale up fonts. Because they are with vector images.
+
+* Good [Browser Support](http://getbootstrap.com/getting-started/#browsers)
+  Need some hack to get I.E 8 to work otherwise works on I.E 9 and above.
 
 ## Cons
 * Code "bloat"
@@ -84,8 +93,5 @@ Bootstrap javascript depends on JQuery. Add jquery to the bottom of the body, th
 * large (col-lg) >= 1200px
 
 
-## In Class 
-Build a [Contact Page](contact.html)
 
-* Work through steps.txt
-* Work throug steps2.txt
+
