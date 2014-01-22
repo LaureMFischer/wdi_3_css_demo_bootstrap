@@ -65,3 +65,8 @@ Bootstrap javascript depends on JQuery. Add jquery to the bottom of the body, th
 * small (col-sm) >= 768 pixels
 * medium (col-md) >= 992 pixels
 * large (col-lg) >= 1200px
+
+
+## Lab
+* Work through steps.txt
+* Work throug steps2.txt
